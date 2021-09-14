@@ -1,9 +1,0 @@
-C:\Users\Utente\source\repos\hwidcheck\hwidcheck\bin\Debug\hwidcheck.exe.config
-C:\Users\Utente\source\repos\hwidcheck\hwidcheck\bin\Debug\hwidcheck.exe
-C:\Users\Utente\source\repos\hwidcheck\hwidcheck\bin\Debug\hwidcheck.pdb
-C:\Users\Utente\source\repos\hwidcheck\hwidcheck\obj\Debug\hwidcheck.csproj.AssemblyReference.cache
-C:\Users\Utente\source\repos\hwidcheck\hwidcheck\obj\Debug\hwidcheck.csproj.CoreCompileInputs.cache
-C:\Users\Utente\source\repos\hwidcheck\hwidcheck\obj\Debug\hwidcheck.csproj.Fody.CopyLocal.cache
-C:\Users\Utente\source\repos\hwidcheck\hwidcheck\obj\Debug\hwidcheck.exe
-C:\Users\Utente\source\repos\hwidcheck\hwidcheck\obj\Debug\hwidcheck.pdb
-C:\Users\Utente\source\repos\hwidcheck\hwidcheck\obj\Debug\hwidcheck.exe.config
