@@ -18,7 +18,7 @@
 > PASTE RAW LINK IN SOURCE CODE
 > </p>
 <p align="center">
-  <img src="photo_2021-09-14_04-14-22.jpg" width="70%" height="70%">
+  <img src="images/photo_2021-09-14_04-14-22.jpg" width="70%" height="70%">
 </p>
 
 # HWID BLACKLIST SYSTEM
