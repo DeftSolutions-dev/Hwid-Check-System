@@ -28,3 +28,17 @@
 <p align="center">
   <img src="images/photo_2021-09-14_04-19-05.jpg" width="70%" height="70%">
 </p>
+
+> CREATE A PASTEBIN WITH THE MOTHERBOARD ID TO BLACKLIST
+> </p>
+<p align="center">
+  <img src="images/photo_2021-09-14_04-20-54.jpg" width="70%" height="70%">
+</p>
+
+> PASTE PASTEBIN RAW LINK INTO SOURCE CODE
+> </p>
+<p align="center">
+  <img src="images/photo_2021-09-14_04-22-17.jpg" width="70%" height="70%">
+</p>
+
+## FINISH
