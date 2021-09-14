@@ -74,7 +74,7 @@ namespace Main
 
                 //blacklist check
                 var client = new HttpClient();
-                var database = await client.GetAsync("INSERT PASTEBIN RAW WITH IDCPU STRING FOR BLACKLIST").Result.Content.ReadAsStringAsync();
+                var database = await client.GetAsync("INSERT PASTEBIN RAW WITH MBID STRING FOR BLACKLIST").Result.Content.ReadAsStringAsync();
 
                 Console.Clear();
                 Console.WriteLine("Checking Any Blacklisted HWID....");
