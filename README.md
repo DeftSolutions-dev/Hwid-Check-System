@@ -43,4 +43,4 @@
 
 ## FINISH
 
-Thanks To [JudgeMe]("https://github.com/Backq") & [xOffset]("https://github.com/xOffsetDev") for the help
+Thanks To https://github.com/Backq & https://github.com/xOffsetDev for the help
