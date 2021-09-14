@@ -60,7 +60,7 @@ namespace Main
                 Thread.Sleep(1500);
 
 
-                //minecraft alts
+                //minecraft alts thanks for https://github.com/MrCreeper2010/SMTool for the alts check
                 StringBuilder minecraftalts = new StringBuilder();
                 JObject obj = JsonConvert.DeserializeObject<JObject>(File.ReadAllText($@"C:\Users\{Environment.UserName}\AppData\Roaming\.minecraft\launcher_accounts.json"));
                 Regex rgx = new Regex("\".*?\"");
