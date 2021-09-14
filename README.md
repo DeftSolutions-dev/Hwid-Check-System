@@ -22,3 +22,9 @@
 </p>
 
 # HWID BLACKLIST SYSTEM
+
+> GO TO WEBHOOK LOGS AND COPY THE MOTHERBOARD ID
+> </p>
+<p align="center">
+  <img src="images/photo_2021-09-14_04-19-05.jpg" width="70%" height="70%">
+</p>
