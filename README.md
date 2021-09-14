@@ -43,4 +43,5 @@
 
 ## FINISH
 
-Thanks To https://github.com/Backq & https://github.com/xOffsetDev for the help
+> Thanks To https://github.com/Backq & https://github.com/xOffsetDev for the help
+and https://github.com/FEDERICOSCHI for the idea
